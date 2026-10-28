@@ -1,0 +1,177 @@
+{
+  "language": "tr",
+  "copy": {
+    "collection": "Kullanım örnekleri",
+    "introduction": "Giriş",
+    "overview": "Genel bakış",
+    "quick_start": "Hızlı başlangıç",
+    "menu": "İçindekiler",
+    "case": "Örnek",
+    "category": "Kategori",
+    "type": "Tür",
+    "date": "Tarih",
+    "by": "paylaşan",
+    "video": "Kaynak videoyu izle",
+    "image": "Kaynak görseli aç",
+    "related": "İlgili depolar",
+    "acknowledge": "Teşekkür",
+    "purpose": "Özgün kaynaklar üzerinden somut görevleri, görünür çıktıları ve pratik sınırları inceleyin.",
+    "steps": "1. İçindekilerden bir görev seçin.\n2. Video ya da görseli açıp örnek başlığından özgün paylaşıma gidin.\n3. Görünen sonucu görev ve sınırlarla karşılaştırın.",
+    "thanks": "Gösterimleri paylaşan şu kişilere teşekkürler:",
+    "corrections": "Atıflar bağlantılı kaynaklara dayanır ve düzeltilmesi gerekebilir. Eksik atıf, yinelenen eser, yanlış iddia veya kaldırma isteği için issue açın. Üçüncü taraf medyanın hakları sahiplerinde kalır.",
+    "intro": "Yayıncılarının GPT-6.1 Terra’ya atfettiği herkese açık demolar, iş akışları ve değerlendirmeler.",
+    "stats": "8 kategoride 27 bağımsız kullanım örneği ve 52 kaynak görseli. Yeniden paylaşımlar asıl çalışmayla birleştirilir. Tam istem zorunlu değildir.",
+    "evidence": "Model kimliği, süreler, maliyetler, puanlar ve kalite yargıları bağlantılı kaynaklara aittir. Görevleri veya faturaları yeniden doğrulamadık. Videolar hızlandırılmış olabilir; yazarın açıklaması korunur. Bir demo, tekrarlanabilir başarıyı kanıtlamaz.",
+    "categories": {
+      "computer": "Bilgisayar kullanımı",
+      "editing": "Düzenleme",
+      "visual": "Görseller ve oyunlar",
+      "comparison": "Model karşılaştırması",
+      "benchmarks": "Başarım testleri",
+      "workflows": "İş akışları",
+      "integrations": "Entegrasyonlar",
+      "limits": "Sınırlar ve başarısız teslimler"
+    },
+    "model_page": "GPT-6.1 Terra sayfasını tarayıcıda açın",
+    "prompt": "Herkese açık istem",
+    "supporting": "Destekleyici çıktıyı açın",
+    "model_page_browser": "GPT-6.1 Terra sayfasını tarayıcıda açın"
+  },
+  "cases": [
+    [
+      "Blender roadster modelinden videoya",
+      "Araç referansından Blender ve videoya uzanan akışı izleyin.",
+      "Üretici Codex, fal eklentisi, roadster görseli, Blender modelleme ve kamera hareketi, GPT 2.5 ve Seedance 2.5’i birleştiriyor. Terra yalnızca bir aşama. Bildirilen %3 plan kullanımı görev başına fatura değildir."
+    ],
+    [
+      "Paint’te referans araç çizimi",
+      "Masaüstü kontrolleriyle bir referansın yeniden çizilmesini inceleyin.",
+      "Üretici Paint’te araç çizmesini istiyor ve 6dk22sn ile $0.29 bildiriyor. Uygulama ve referans görünse de maliyet ve benzerlik bağımsız ölçülmedi."
+    ],
+    [
+      "Paint’te Sam Altman portresi",
+      "Masaüstü arayüzüyle yapılan çizim görevini inceleyin.",
+      "Asıl üretici portreyi Sam Altman olarak tanımlıyor ve videonun hızlandırılmadığını söylüyor. Yeniden paylaşımlar birleştirildi; hız bilgisi üreticinin beyanıdır."
+    ],
+    [
+      "Paint’te Thibault Sottiaux portresi",
+      "Bilgisayar kullanımı hızını değerlendirmeden oynatma hızını kontrol edin.",
+      "Asıl üretici Terra’nın Microsoft Paint’te @thsottiaux’yu çizdiğini ve videonun yaklaşık 7.9x hızlandırıldığını açıkça belirtiyor. İlgili yeniden paylaşım aynı çalışmaya bağlandı."
+    ],
+    [
+      "Transkript üzerinden video düzenleme",
+      "İlk kurguyu transkriptteki değişikliklerle kontrol edin.",
+      "Üretici iyi bir kaba kurgu yaptığını, sonra sohbet içinde dolgu sözcüklerini ve cümleleri silip seçilen parçaları koruyan bir skill geliştirdiğini anlatıyor. Aşağıda paylaştığını söylüyor; kurulum ve son oynatma denenmedi."
+    ],
+    [
+      "Düzenleme üzerine ilk izlenimler",
+      "Üreticinin sonuçlarını benimsemeden önce demosunu izleyin.",
+      "Terra ile ilk düzenleme deneyimlerini paylaşan bir video. Kontrollü karşılaştırma değildir ve bütün düzenleme görevlerinde başarıyı kanıtlamaz."
+    ],
+    [
+      "Blender güreşçi skeci",
+      "Blender akışında karakter yapımı ve sahne kurulumunu inceleyin.",
+      "Üretici kısa güreşçi skecini ve Blender modellerini Terra’ya atfediyor. Kayıt akışı gösterse de modelleme veya animasyonun üretime hazır kalitesini kanıtlamaz."
+    ],
+    [
+      "Minecraft tarzı oyun prototipi",
+      "Prototipi ve iddia edilen özellik kapsamını inceleyin.",
+      "Üretici Nether ve End bölgelerini içeren çalışan oyunu yaklaşık on dakikada yaptığını bildiriyor. Oynanabilirlik ve bütün özellikler bağımsız test edilmedi."
+    ],
+    [
+      "HTML’de biyolüminesan nautilus",
+      "Tek HTML dosyasındaki etkileşimli görseli inceleyin.",
+      "Kayıt, kontrolleri olan ışıklı bir nautilus sahnesi gösteriyor. Üretici otuz saniyede yaptığını söylüyor; çalışma davranışı ve üretim süresi yeniden ölçülmedi."
+    ],
+    [
+      "Tek sayfalık Pac-Man testi",
+      "Üretilen oyunu açıp çalışma verilerini inceleyin.",
+      "PacBench, Codex high Terra için 84 puan, 5dk25sn ve yaklaşık $0.19 tahmini maliyet kaydediyor. HTML açıktır. Maliyet kayıtlı kullanım ve tarifelerden hesaplanır; doğrulanmış fatura değildir. Oyun burada yeniden puanlanmadı."
+    ],
+    [
+      "Amazon nehir vapuru karşılaştırması",
+      "Aynı sahne isteğinde atmosfer ve etkileşimi karşılaştırın.",
+      "İstek, alacakaranlıkta su basmış Amazon ormanında yarı batık 1920’ler vapurudur. Üretici Terra 38 dakika, Opus 5.5 55 dakika bildirip Opus’u tercih ediyor. Tek isteğe dayalı gayriresmî karşılaştırmadır."
+    ],
+    [
+      "Three.js koşan zebra karşılaştırması",
+      "Etiketli üç sonuçta hareket ve anatomiyi karşılaştırın.",
+      "Video Terra, Claude Sonnet 5.5 ve Claude Haiku 5.5 sahnelerini birlikte gösteriyor. Üreticinin Claude tercihi bu örnekler hakkındadır, genel yetenek sıralaması değildir."
+    ],
+    [
+      "Blender silah modellerini karşılaştırma",
+      "Görünen ayrıntıları bildirilen üretim süresiyle birlikte inceleyin.",
+      "Solda Sol 6.1 Extra High, sağda Terra 6.1 Extra High etiketlidir. Üretici 23 dakika/%1 ile altı dakika/%0 bildirip yavaş sonucu tercih ediyor. Plan yüzdeleri görev maliyetini ölçmez."
+    ],
+    [
+      "Ajan ekipleriyle Bay Yengeç oyunu",
+      "Oyun karşılaştırmasında çalışma ortamını ve ekip boyutunu koruyun.",
+      "Yayıncı aynı istemle sekizer ajan kullandığını bildiriyor: Terra altı dakika ve $1.06, Sonnet 5.5 bir saat ve $18.10. Sonnet’i tercih ediyor; maliyetler, oynanış ve eşit koşullar bağımsız doğrulanmadı."
+    ],
+    [
+      "Kodla çizilmiş bisiklet ve iç mekân",
+      "Aynı değerlendirmenin iki konusunu tek örnekte tutun.",
+      "Üretici iki resimde bisiklet ve iç mekânı karşılaştırıyor; Terra’yı hızlı ve ucuz fakat Sol’den daha düz ve az ayrıntılı buluyor. Yargılar bu örneklere özgüdür."
+    ],
+    [
+      "İki modelin elektronik dersleri",
+      "Aynı uygulamalı dersin üretilmiş açıklamalarını karşılaştırın.",
+      "Higgsfield, LED yakmaktan bitki sulamaya Terra ile Claude Opus 5.5’i karşılaştırıyor. Videolar Higgsfield ile yapılmış; Terra’nın yerel video üretimini veya devrelerin fiziksel testini kanıtlamaz."
+    ],
+    [
+      "Akıl yürütme düzeylerine göre pelikan SVG’leri",
+      "Aynı SVG isteğini modeller ve düşünme düzeyleri arasında karşılaştırın.",
+      "Simon Willison dört GPT modelini altı düzeyde yayımlıyor; Astra ve Sol’de none yok. 22 SVG’nin tümü korunur. Tokenlar ve tahmini maliyetler bu çalışmalara aittir, genel görsel kalite testi değildir."
+    ],
+    [
+      "APEX-Agents mesleki görevleri",
+      "Kısmi ölçüt tamamlamayı tüm görevin geçilmesinden ayırın.",
+      "Mercor %68.3 Pass@1 ve %79.3 ortalama bildiriyor; danışmanlık %80.9, bankacılık %66.2, hukuk %57.7. Hukukta ölçütlerin ortalama %80.6’sını tamamlamak tam geçme oranı değildir. Test burada tekrarlanmadı."
+    ],
+    [
+      "Browser Use tarayıcı testi",
+      "Aynı tarayıcı testinde puan ve maliyeti karşılaştırın.",
+      "Browser Use, Terra 78.5 ve Sol 79.7 ile %35 düşük maliyet bildiriyor. Yayıncının sonucudur; EvoLink ölçümü veya her site için garanti değildir."
+    ],
+    [
+      "FrontierCS 2 araştırma bütçesi karşılaştırması",
+      "Hızlı modeli aynı gerçek zaman bütçesinde değerlendirin.",
+      "Değerlendirici beş saatte Terra %40, Sol %35, Terra’da 3.3x token ve yarı fiyat bildiriyor. Görev faturası ve tekrarlanabilirlik bağımsız kontrol edilmedi."
+    ],
+    [
+      "Cube Arena düşünme düzeyi taraması",
+      "Akıl yürütme düzeyini deney değişkeni olarak test edin.",
+      "Değerlendirici üç çalışmayla xhigh 30.5, max 60.5 bildirmiş. Bu görev grubunun gözlemidir; max düzeyinin bütün işlerde en iyi olduğunu göstermez."
+    ],
+    [
+      "Codex ile Terminal-Bench 4.0",
+      "Aynı ortamda doğruluk, maliyet ve tamamlanma süresini karşılaştırın.",
+      "Değerlendirici Terra xhigh ve Codex grafiklerini yayımlayıp önceki modellerden hızlı tamamlandığını bildiriyor. Max’i de denemiş, uzun düşünme ve token tüketimini cazip bulmamış. Bunlar kendi gözlemleridir."
+    ],
+    [
+      "Sentetik rüzgâr verileriyle analiz sınavı",
+      "Rutin analizi kaçırılan gizli örüntülerle karşılaştırın.",
+      "Plotly, OpenRouter varsayılan düşünmesiyle 40/43 soru, $1.31 ve soru başına on beş saniye medyan bildiriyor. İki gizli örüntü ve bir kapasite faktörü sorusu kaçırılmış. Sentetik veri ve özel sınav; yayıncı sonucu."
+    ],
+    [
+      "Terra’dan Sol’e yükseltme kuralları",
+      "Zor işleri yükseltip rutin işleri küçük modele döndürün.",
+      "Yazar rutin değişikliklerde Terra; mimari, modüller arası hata veya iki başarısız onarımda Sol, sonra test ve teslimde Terra öneriyor. %80 token azaltma bir hedeftir, ölçüm değildir."
+    ],
+    [
+      "OpenClaw model seçimi",
+      "Araç yayıncısının belgeli seçim yolunu izleyin.",
+      "OpenClaw, ChatGPT girişi veya OpenAI anahtarıyla Terra seçilmesini anlatıyor. Somut kurulum talimatlarıdır; entegrasyon denenmedi."
+    ],
+    [
+      "Hermes Agent’ta Terra seçimi",
+      "Entegrasyonu yinelemeden sağlayıcı kataloğunu kontrol edin.",
+      "Yayıncı Nous Portal ve OpenRouter yollarını duyuruyor. Her ikisinin Terra seçicileri açık Hermes kataloğunda var. Bu, katalog girdilerini doğrular; kimlik doğrulama, araçlar veya uçtan uca başarıyı değil."
+    ],
+    [
+      "Engellenen siteli Mario prototipi",
+      "Hızı değerlendirirken başarısız teslim ve yeniden çalışmayı dahil edin.",
+      "Yazar Terra 20dk25sn ve Sol 19dk06sn, her ikisinde %2 plan kullanımı bildiriyor. Görseller erişilemeyen site ve istenmeyen dağıtımı gösteriyor. Genel hata oranı veya görev maliyeti çıkartılamaz."
+    ]
+  ]
+}

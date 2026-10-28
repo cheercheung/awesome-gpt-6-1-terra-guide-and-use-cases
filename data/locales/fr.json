@@ -1,0 +1,177 @@
+{
+  "language": "fr",
+  "copy": {
+    "collection": "Cas d’usage",
+    "introduction": "Introduction",
+    "overview": "Vue d’ensemble",
+    "quick_start": "Démarrage rapide",
+    "menu": "Sommaire",
+    "case": "Cas",
+    "category": "Catégorie",
+    "type": "Type",
+    "date": "Date",
+    "by": "par",
+    "video": "Voir la vidéo originale",
+    "image": "Ouvrir l’image originale",
+    "related": "Dépôts associés",
+    "acknowledge": "Remerciements",
+    "purpose": "Explorez des tâches concrètes, des résultats visibles et des limites pratiques à partir des sources originales.",
+    "steps": "1. Choisissez une tâche dans le sommaire.\n2. Ouvrez sa vidéo ou son image, puis suivez le titre vers la publication originale.\n3. Comparez le résultat visible à la tâche et à ses limites.",
+    "thanks": "Merci aux personnes qui ont publié ces démonstrations :",
+    "corrections": "L’attribution suit les sources liées et peut nécessiter des corrections. Ouvrez une issue pour signaler un crédit manquant, un doublon, une affirmation incorrecte ou demander un retrait. Les médias tiers restent la propriété de leurs ayants droit.",
+    "intro": "Démonstrations, processus et évaluations publics attribués par leurs auteurs à GPT-6.1 Terra.",
+    "stats": "27 cas indépendants dans 8 catégories, avec 52 visuels sources. Les republications restent regroupées avec le travail original. Un prompt complet est facultatif.",
+    "evidence": "Identité du modèle, durées, coûts, scores et avis suivent les sources. Nous n’avons reproduit ni tâches ni facturation. Les vidéos peuvent être accélérées ; les notes conservent ces indications. Une démonstration ne prouve pas un succès reproductible.",
+    "categories": {
+      "computer": "Utilisation de l’ordinateur",
+      "editing": "Montage et édition",
+      "visual": "Visuels et jeux",
+      "comparison": "Comparaison de modèles",
+      "benchmarks": "Évaluations",
+      "workflows": "Processus de travail",
+      "integrations": "Intégrations",
+      "limits": "Limites et livraisons ratées"
+    },
+    "model_page": "Ouvrir GPT-6.1 Terra dans le navigateur",
+    "prompt": "Prompt public",
+    "supporting": "Ouvrir la pièce complémentaire",
+    "model_page_browser": "Ouvrir GPT-6.1 Terra dans le navigateur"
+  },
+  "cases": [
+    [
+      "Du roadster Blender à la vidéo",
+      "Suivre le processus de la référence automobile à Blender puis à la vidéo.",
+      "L’auteur combine Codex, extension fal, image du roadster, modélisation et caméra Blender, GPT 2.5 et Seedance 2.5. Terra n’est qu’une étape. Les 3% de forfait annoncés ne sont pas une facture par tâche."
+    ],
+    [
+      "Voiture de référence dessinée dans Paint",
+      "Observer la copie d’une référence par les commandes du bureau.",
+      "L’auteur demande une voiture dans Paint et annonce 6min22s et $0.29. La vidéo montre logiciel et référence ; coût et fidélité n’ont pas été mesurés indépendamment."
+    ],
+    [
+      "Portrait de Sam Altman dans Paint",
+      "Observer un dessin réalisé au moyen de l’interface du bureau.",
+      "Le créateur original identifie Sam Altman et affirme que la vidéo n’est pas accélérée. Les republications sont regroupées ; la vitesse reste une déclaration de l’auteur."
+    ],
+    [
+      "Portrait de Thibault Sottiaux dans Paint",
+      "Vérifier la vitesse de lecture avant de juger une démonstration.",
+      "L’auteur indique que Terra dessine @thsottiaux dans Microsoft Paint et précise une accélération d’environ 7.9x. Une republication est rattachée à ce même travail."
+    ],
+    [
+      "Montage vidéo depuis la transcription",
+      "Affiner un premier montage en modifiant sa transcription.",
+      "La créatrice décrit un bon premier montage puis une skill permettant de supprimer hésitations et phrases et de conserver des passages dans le chat. Elle dit la partager dessous ; installation et lecture finale n’ont pas été testées."
+    ],
+    [
+      "Premières impressions sur le montage",
+      "Voir la démonstration avant d’adopter les conclusions du créateur.",
+      "L’auteur partage ses premiers résultats de montage avec Terra. Ce n’est ni un test contrôlé ni une preuve de réussite pour toute tâche d’édition."
+    ],
+    [
+      "Sketch de catcheurs avec Blender",
+      "Observer la création des personnages et l’assemblage de la scène.",
+      "L’auteur attribue à Terra le sketch et les modèles de catcheurs dans Blender. La vidéo montre le processus, sans établir une qualité de production en modélisation ou animation."
+    ],
+    [
+      "Prototype de jeu façon Minecraft",
+      "Observer le prototype et les fonctions annoncées.",
+      "L’auteur rapporte un jeu fonctionnel créé en dix minutes environ, avec Nether et End. Jouabilité et couverture complète des fonctions n’ont pas été testées indépendamment."
+    ],
+    [
+      "Nautile bioluminescent en HTML",
+      "Observer une scène interactive dans un fichier HTML unique.",
+      "La vidéo montre un nautile lumineux avec commandes. L’auteur annonce trente secondes de création ; le temps et le comportement à l’exécution n’ont pas été reproduits."
+    ],
+    [
+      "Évaluation Pac-Man sur une page",
+      "Ouvrir le jeu généré et inspecter les données enregistrées.",
+      "PacBench indique Codex avec effort high : score 84, 5min25s, coût estimé d’environ $0.19. Le HTML est public. Le coût applique les tarifs à l’usage enregistré, sans facture vérifiée ; nous n’avons pas noté le jeu."
+    ],
+    [
+      "Vapeur amazonien entre modèles",
+      "Comparer ambiance et interaction à consigne identique.",
+      "L’auteur demande un vapeur des années 1920 à demi submergé en Amazonie au crépuscule. Il annonce Terra 38 minutes, Opus 5.5 55 minutes, et préfère l’ambiance et l’interaction d’Opus. Comparaison informelle sur un exemple."
+    ],
+    [
+      "Zèbre au galop en Three.js",
+      "Comparer mouvement et anatomie de trois sorties identifiées.",
+      "La vidéo juxtapose Terra, Claude Sonnet 5.5 et Claude Haiku 5.5. La préférence pour Claude concerne ces exemples, pas un classement général des capacités."
+    ],
+    [
+      "Modèles d’armes dans Blender",
+      "Comparer les détails visibles aux durées annoncées.",
+      "La vidéo étiquette Sol 6.1 Extra High à gauche et Terra 6.1 Extra High à droite. L’auteur annonce 23 minutes/1% contre six minutes/0% et préfère le résultat lent. Les pourcentages du forfait ne mesurent pas un coût par tâche."
+    ],
+    [
+      "Jeu de M. Krabs avec équipes d’agents",
+      "Conserver le dispositif et la taille des équipes dans la comparaison.",
+      "L’éditeur annonce huit agents par modèle sur le même prompt : Terra en six minutes pour $1.06, Sonnet 5.5 en une heure pour $18.10. Il préfère Sonnet ; coûts, jouabilité et conditions équivalentes ne sont pas vérifiés."
+    ],
+    [
+      "Vélo et intérieur peints par code",
+      "Garder ensemble deux sujets d’une même évaluation.",
+      "Le créateur présente deux comparaisons, vélo et intérieur : Terra serait plus rapide et moins cher mais plus plat et moins détaillé que Sol. Ces observations de coût et qualité concernent ces échantillons."
+    ],
+    [
+      "Cours d’électronique entre deux modèles",
+      "Comparer les explications générées pour un même cours pratique.",
+      "Higgsfield compare Terra et Claude Opus 5.5, de l’allumage d’une LED à l’arrosage d’une plante. Les vidéos sont faites avec Higgsfield ; elles ne prouvent ni génération vidéo native par Terra ni essais physiques des circuits."
+    ],
+    [
+      "SVG de pélicans selon le raisonnement",
+      "Comparer modèles et niveaux avec la même demande SVG.",
+      "Simon Willison publie quatre modèles sur six niveaux ; none manque pour Astra et Sol. Les 22 SVG sont conservés. Tokens et coûts estimés appartiennent à ces exécutions, pas à une évaluation générale de qualité visuelle."
+    ],
+    [
+      "Tâches professionnelles APEX-Agents",
+      "Distinguer critères partiellement remplis et réussite complète.",
+      "Mercor annonce 68.3% Pass@1 et 79.3% de moyenne ; conseil 80.9%, banque 66.2%, droit 57.7%. Les 80.6% de critères juridiques remplis ne sont pas le taux de tâches réussies. Évaluation non reproduite ici."
+    ],
+    [
+      "Évaluation de navigation Browser Use",
+      "Comparer scores et coûts au sein d’un même test de navigateur.",
+      "Browser Use annonce Terra 78.5 contre Sol 79.7, à coût inférieur de 35%. Résultat de l’éditeur, pas mesure EvoLink ni garantie pour tous les sites."
+    ],
+    [
+      "Budget de recherche FrontierCS 2",
+      "Évaluer un modèle rapide avec le même budget temporel.",
+      "L’évaluateur annonce Terra 40% et Sol 35% en cinq heures, Terra consommant 3.3x plus de tokens, pour la moitié du prix selon le billet. Facturation et répétabilité non vérifiées."
+    ],
+    [
+      "Niveaux de raisonnement dans Cube Arena",
+      "Traiter l’effort de raisonnement comme variable expérimentale.",
+      "L’évaluateur annonce 30.5 en xhigh et 60.5 en max, contrôlés sur trois exécutions. Cela concerne ce jeu de tâches, sans prouver que max est toujours préférable."
+    ],
+    [
+      "Terminal-Bench 4.0 avec Codex",
+      "Comparer précision, coût et durée dans le même dispositif.",
+      "L’évaluateur présente Terra xhigh avec Codex et rapporte des tâches terminées plus vite que les modèles testés auparavant. Il a aussi essayé max mais juge son raisonnement prolongé et ses tokens moins intéressants. Avis de l’évaluateur."
+    ],
+    [
+      "Examen d’analyse sur données éoliennes synthétiques",
+      "Comparer analyses courantes et motifs cachés manqués.",
+      "Plotly annonce 40/43 réponses, $1.31 et quinze secondes médianes par question, au raisonnement OpenRouter par défaut. Deux motifs cachés et une question de facteur de capacité sont manqués. Données synthétiques, examen privé ; résultats de l’éditeur."
+    ],
+    [
+      "Règles d’escalade de Terra vers Sol",
+      "Confier les difficultés au modèle supérieur puis rendre les tâches courantes.",
+      "L’auteur propose Terra pour les changements ordinaires, Sol pour architecture, bogues transversaux ou deux corrections ratées, puis Terra pour tests et livraison. Les 80% de tokens économisés sont un objectif non mesuré."
+    ],
+    [
+      "Choix du modèle dans OpenClaw",
+      "Suivre le parcours documenté par l’éditeur de l’outil.",
+      "OpenClaw indique une connexion ChatGPT ou une clé OpenAI, puis le choix de Terra. Ce sont des instructions concrètes ; nous n’avons pas testé l’intégration."
+    ],
+    [
+      "Choisir Terra dans Hermes Agent",
+      "Vérifier le catalogue du fournisseur avant de reproduire l’intégration.",
+      "L’éditeur annonce Terra via Nous Portal et OpenRouter. Le catalogue public Hermes contient les sélecteurs correspondants. Cela vérifie les entrées, pas l’authentification, les outils ou une exécution complète."
+    ],
+    [
+      "Prototype Mario avec site bloqué",
+      "Inclure échec de livraison et reprises dans l’évaluation de vitesse.",
+      "L’auteur annonce Terra 20min25s et Sol 19min06s, chacun à 2% du forfait. Les captures montrent un site inaccessible et un déploiement non souhaité. Elles ne donnent ni taux général d’échec ni coût par tâche."
+    ]
+  ]
+}

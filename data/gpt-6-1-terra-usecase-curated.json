@@ -1,0 +1,1154 @@
+{
+  "schema_version": 1,
+  "model": "GPT-6.1 Terra",
+  "case_count": 27,
+  "source_corpus_count": 130,
+  "category_counts": {
+    "computer": 4,
+    "editing": 2,
+    "visual": 4,
+    "comparison": 7,
+    "benchmarks": 6,
+    "workflows": 1,
+    "integrations": 2,
+    "limits": 1
+  },
+  "media_policy": "all-source-media",
+  "cases": [
+    {
+      "source_id": "x:2114825275167175105",
+      "source_url": "https://x.com/i/status/2114825275167175105",
+      "author_handle": "mattworkman",
+      "author_url": "https://x.com/mattworkman",
+      "date": "2026-10-26",
+      "category": "computer",
+      "type": "Demo",
+      "title": "Roadster from Blender to video",
+      "takeaway": "Trace a workflow from a car reference through Blender to video.",
+      "body_notes": "The creator describes Codex with a fal plugin, roadster-image generation, Blender modeling and camera animation, then GPT 2.5 and Seedance 2.5 for photoreal conversion. Terra is one component of this workflow. The claimed 3% plan usage is not a per-task bill.",
+      "media": [
+        {
+          "id": "2114825025245061121",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video.twimg.com/amplify_video/2114825025245061121/vid/avc1/2160x3840/KaMt0IMiwbSKS-Z7.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114825025245061121/img/8EAAgkByF-o1_uvB.jpg",
+          "source_expanded_url": "https://x.com/mattworkman/status/2114825275167175105/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114825025245061121-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114825025245061121.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-1",
+      "number": 1,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2114825275167175105"
+    },
+    {
+      "source_id": "x:2114883042762543372",
+      "source_url": "https://x.com/i/status/2114883042762543372",
+      "author_handle": "rubenssoto_ai",
+      "author_url": "https://x.com/rubenssoto_ai",
+      "date": "2026-10-27",
+      "category": "computer",
+      "type": "Demo",
+      "title": "Reference car drawn in Paint",
+      "takeaway": "Inspect drawing from a reference image through desktop controls.",
+      "body_notes": "The creator asks Terra to redraw a car reference in Paint and reports 6m22s and $0.29. The recording shows the application and reference; the reported cost and fidelity were not independently measured.",
+      "media": [
+        {
+          "id": "2114882431467565056",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video-s.twimg.com/amplify_video/2114882431467565056/vid/avc1/1912x1020/SQ9dJBs5VvHaiTjx.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114882431467565056/img/l7jMh1llm8zZUAAs.jpg",
+          "source_expanded_url": "https://x.com/rubenssoto_ai/status/2114883042762543372/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114882431467565056-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114882431467565056.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-2",
+      "number": 2,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2114883042762543372"
+    },
+    {
+      "source_id": "x:2114794094660907061",
+      "source_url": "https://x.com/rohit3a/status/2114794094660907061",
+      "author_handle": "rohit3a",
+      "author_url": "https://x.com/rohit3a",
+      "date": "2026-10-26",
+      "category": "computer",
+      "type": "Demo",
+      "title": "Sam Altman portrait in Paint",
+      "takeaway": "Inspect a drawing task performed through a desktop interface.",
+      "body_notes": "The original creator identifies the portrait as Sam Altman and says the recording is not sped up. Reposts belong to this same work; the speed statement is the creator's claim.",
+      "media": [
+        {
+          "id": "2114793627318964224",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video-s.twimg.com/amplify_video/2114793627318964224/vid/avc1/1732x1080/IdoGrr8qfl1VCQ-8.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114793627318964224/img/WHGiO-ncaTUhXqfR.jpg",
+          "source_expanded_url": "https://x.com/rohit3a/status/2114794094660907061/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114793627318964224-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114793627318964224.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [
+        {
+          "source_id": "x:2114960779112067548",
+          "source_url": "https://x.com/i/status/2114960779112067548"
+        },
+        {
+          "source_id": "x:2114971607739609528",
+          "source_url": "https://x.com/i/status/2114971607739609528"
+        }
+      ],
+      "id": "case-3",
+      "number": 3,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/rohit3a/status/2114794094660907061"
+    },
+    {
+      "source_id": "x:2114828562142257163",
+      "source_url": "https://x.com/ZryMiller/status/2114828562142257163",
+      "author_handle": "ZryMiller",
+      "author_url": "https://x.com/ZryMiller",
+      "date": "2026-10-26",
+      "category": "computer",
+      "type": "Demo",
+      "title": "Thibault Sottiaux portrait in Paint",
+      "takeaway": "Check playback speed before judging a computer-use demonstration.",
+      "body_notes": "The original creator says Terra drew @thsottiaux in Microsoft Paint and explicitly labels the video as about 7.9x sped up. A repost of this work is grouped here.",
+      "media": [
+        {
+          "id": "2114828516550213633",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video.twimg.com/amplify_video/2114828516550213633/vid/avc1/1808x1078/ZF-L7nqfHQ4nR5xB.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114828516550213633/img/7A6w0IFr_aq6DgoL.jpg",
+          "source_expanded_url": "https://x.com/ZryMiller/status/2114828562142257163/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114828516550213633-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114828516550213633.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [
+        {
+          "source_id": "x:2114972335086379345",
+          "source_url": "https://x.com/i/status/2114972335086379345"
+        }
+      ],
+      "id": "case-4",
+      "number": 4,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/ZryMiller/status/2114828562142257163"
+    },
+    {
+      "source_id": "x:2114885589921403372",
+      "source_url": "https://x.com/i/status/2114885589921403372",
+      "author_handle": "naometzger",
+      "author_url": "https://x.com/naometzger",
+      "date": "2026-10-27",
+      "category": "editing",
+      "type": "Tutorial",
+      "title": "Transcript-guided video editing",
+      "takeaway": "Use transcript edits to control a rough video cut.",
+      "body_notes": "The creator reports a good initial rough cut, then describes a skill for removing filler words, cutting sentences and preserving chosen passages from the transcript in chat. The post says the skill is shared below; installation and final playback were not tested here.",
+      "media": [
+        {
+          "id": "2114885553963577344",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video-s.twimg.com/amplify_video/2114885553963577344/vid/avc1/1920x1052/lYG9PHy7ac2VTQmi.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114885553963577344/img/r-ryeOg3Xy2_YBDF.jpg",
+          "source_expanded_url": "https://x.com/naometzger/status/2114885589921403372/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114885553963577344-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114885553963577344.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-5",
+      "number": 5,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2114885589921403372"
+    },
+    {
+      "source_id": "x:2114992694263267328",
+      "source_url": "https://x.com/i/status/2114992694263267328",
+      "author_handle": "The_Alex",
+      "author_url": "https://x.com/The_Alex",
+      "date": "2026-10-27",
+      "category": "editing",
+      "type": "Demo",
+      "title": "Editing first-impressions walkthrough",
+      "takeaway": "Inspect a creator's editing demonstration before adopting its conclusions.",
+      "body_notes": "The creator shares a video about early editing results with Terra. The clip is a first-impressions demonstration, not a controlled comparison or evidence that every editing task succeeds.",
+      "media": [
+        {
+          "id": "2114992024793534464",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video-s.twimg.com/amplify_video/2114992024793534464/vid/avc1/3840x2160/PipLIkyvMbx0HUYE.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114992024793534464/img/0Vf-J09Riuv9Uvxx.jpg",
+          "source_expanded_url": "https://x.com/The_Alex/status/2114992694263267328/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114992024793534464-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114992024793534464.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-6",
+      "number": 6,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2114992694263267328"
+    },
+    {
+      "source_id": "x:2115017348679975031",
+      "source_url": "https://x.com/i/status/2115017348679975031",
+      "author_handle": "bijanbowen",
+      "author_url": "https://x.com/bijanbowen",
+      "date": "2026-10-27",
+      "category": "visual",
+      "type": "Demo",
+      "title": "Blender wrestler skit",
+      "takeaway": "Inspect character creation and scene assembly in a Blender workflow.",
+      "body_notes": "The creator attributes a short wrestler skit and the Blender character models to Terra. The recording shows the resulting workflow; it does not establish production-ready modeling or animation quality.",
+      "media": [
+        {
+          "id": "2115015758505803776",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video.twimg.com/amplify_video/2115015758505803776/vid/avc1/3840x2160/WCamV8rZCBvoyg2w.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2115015758505803776/img/RjeY3FkTzcc-ENyr.jpg",
+          "source_expanded_url": "https://x.com/bijanbowen/status/2115017348679975031/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2115015758505803776-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2115015758505803776.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-7",
+      "number": 7,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2115017348679975031"
+    },
+    {
+      "source_id": "x:2115023607445528945",
+      "source_url": "https://x.com/i/status/2115023607445528945",
+      "author_handle": "notjazii",
+      "author_url": "https://x.com/notjazii",
+      "date": "2026-10-27",
+      "category": "visual",
+      "type": "Demo",
+      "title": "Minecraft-style game prototype",
+      "takeaway": "Inspect a game prototype and its claimed feature coverage.",
+      "body_notes": "The creator reports building a working Minecraft-style game in about ten minutes, including Nether and End areas. Playability and the complete feature set were not independently tested.",
+      "media": [
+        {
+          "id": "2115023420610203648",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video-s.twimg.com/amplify_video/2115023420610203648/vid/avc1/1920x1080/Gyxo7i92YIukoDTZ.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2115023420610203648/img/vej4CATDrF2vj60C.jpg",
+          "source_expanded_url": "https://x.com/notjazii/status/2115023607445528945/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2115023420610203648-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2115023420610203648.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-8",
+      "number": 8,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2115023607445528945"
+    },
+    {
+      "source_id": "x:2114981614602375392",
+      "source_url": "https://x.com/i/status/2114981614602375392",
+      "author_handle": "NovaXCode",
+      "author_url": "https://x.com/NovaXCode",
+      "date": "2026-10-27",
+      "category": "visual",
+      "type": "Demo",
+      "title": "Bioluminescent nautilus in HTML",
+      "takeaway": "Inspect an interactive visual built as a single HTML file.",
+      "body_notes": "The recording shows a bioluminescent nautilus scene with controls. The creator reports making it in thirty seconds in a single HTML file; runtime behavior and generation time were not reproduced.",
+      "media": [
+        {
+          "id": "2114981477440241664",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video-s.twimg.com/amplify_video/2114981477440241664/vid/avc1/1920x1080/qvX4vzGyYk_HMyw4.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114981477440241664/img/Fsz38N8Xj1Ur8cjh.jpg",
+          "source_expanded_url": "https://x.com/NovaXCode/status/2114981614602375392/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114981477440241664-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114981477440241664.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-9",
+      "number": 9,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2114981614602375392"
+    },
+    {
+      "source_id": "supplemental:pacbench",
+      "source_url": "https://jonclegg.github.io/pacman-bakeoff/#gpt-6.1-terra",
+      "author_handle": "jonclegg",
+      "author_url": "https://github.com/jonclegg",
+      "date": "2026-10-26",
+      "category": "visual",
+      "type": "Benchmark",
+      "title": "Single-page Pac-Man benchmark",
+      "takeaway": "Open a generated game and inspect its recorded run data.",
+      "body_notes": "PacBench records a Codex high-effort Terra run scoring 84, taking 5m25s, with an estimated cost of about $0.19. The game HTML is public. Cost is calculated from recorded usage and published rates, rather than a verified bill; this collection has not scored gameplay independently.",
+      "media": [
+        {
+          "id": "pacbench-1",
+          "type": "image",
+          "source_type": "interactive-html",
+          "source_media_url": "https://jonclegg.github.io/pacman-bakeoff/entries/gpt-6.1-terra.html",
+          "source_preview_url": "https://jonclegg.github.io/pacman-bakeoff/entries/gpt-6.1-terra.html",
+          "alt": "Single-page Pac-Man benchmark",
+          "model": null,
+          "effort": null,
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/pacbench-1.png"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_id": "hn:50254188",
+          "source_url": "https://news.ycombinator.com/item?id=50254188"
+        }
+      ],
+      "prompt_status": "public",
+      "prompt_boundary": "Exact public task prompt is copied without reconstruction.",
+      "prompt": "Create a Pac-Man game in a single html page",
+      "id": "case-10",
+      "number": 10,
+      "kind": "comparison",
+      "dedup_key": "https://jonclegg.github.io/pacman-bakeoff/#gpt-6.1-terra",
+      "supporting_url": "https://jonclegg.github.io/pacman-bakeoff/entries/gpt-6.1-terra.html"
+    },
+    {
+      "source_id": "x:2115011181240836109",
+      "source_url": "https://x.com/i/status/2115011181240836109",
+      "author_handle": "sakatayasha",
+      "author_url": "https://x.com/sakatayasha",
+      "date": "2026-10-27",
+      "category": "comparison",
+      "type": "Evaluation",
+      "title": "Amazon river steamer across models",
+      "takeaway": "Compare atmosphere and interaction in a shared scene request.",
+      "body_notes": "The creator compares a derelict 1920s river steamer in a flooded Amazon jungle at dusk, reporting 38 minutes for Terra and 55 for Opus 5.5. The author prefers Opus's atmosphere and interaction. These are informal results from one request.",
+      "media": [
+        {
+          "id": "2115011004266659840",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video-s.twimg.com/amplify_video/2115011004266659840/vid/avc1/1440x1440/EtyGttToGNVWPxAq.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2115011004266659840/img/7MmddMvoxGd2F1bc.jpg",
+          "source_expanded_url": "https://x.com/sakatayasha/status/2115011181240836109/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2115011004266659840-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2115011004266659840.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-11",
+      "number": 11,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2115011181240836109"
+    },
+    {
+      "source_id": "x:2114945928092324028",
+      "source_url": "https://x.com/i/status/2114945928092324028",
+      "author_handle": "AI_Screening",
+      "author_url": "https://x.com/AI_Screening",
+      "date": "2026-10-27",
+      "category": "comparison",
+      "type": "Evaluation",
+      "title": "Three.js galloping zebra comparison",
+      "takeaway": "Compare motion and anatomy across three labeled outputs.",
+      "body_notes": "The recording places Terra, Claude Sonnet 5.5 and Claude Haiku 5.5 zebra scenes together. The creator's preference for Claude is an opinion about these examples, not a general capability ranking.",
+      "media": [
+        {
+          "id": "2114945793476247552",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video.twimg.com/amplify_video/2114945793476247552/vid/avc1/2160x3040/7zqnkKcTFWf4fOCd.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114945793476247552/img/HKzrbxkiUhwHNVZ6.jpg",
+          "source_expanded_url": "https://x.com/AI_Screening/status/2114945928092324028/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114945793476247552-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114945793476247552.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-12",
+      "number": 12,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2114945928092324028"
+    },
+    {
+      "source_id": "x:2115029810850193444",
+      "source_url": "https://x.com/i/status/2115029810850193444",
+      "author_handle": "maxt3chno",
+      "author_url": "https://x.com/maxt3chno",
+      "date": "2026-10-27",
+      "category": "comparison",
+      "type": "Evaluation",
+      "title": "Blender gun-model comparison",
+      "takeaway": "Compare visible modeling detail alongside reported generation time.",
+      "body_notes": "The side-by-side recording labels Sol 6.1 Extra High and Terra 6.1 Extra High. The creator reports 23 minutes and 1% plan usage for the left output versus six minutes and 0% for the right, and prefers the slower result's quality. Percentage displays are not task-level cost measurements.",
+      "media": [
+        {
+          "id": "2115029522726760448",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video.twimg.com/amplify_video/2115029522726760448/vid/avc1/1600x1024/pKzPR1ebwo2bj1NU.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2115029522726760448/img/tvg51XP7jTF0EfrU.jpg",
+          "source_expanded_url": "https://x.com/maxt3chno/status/2115029810850193444/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2115029522726760448-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2115029522726760448.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-13",
+      "number": 13,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2115029810850193444"
+    },
+    {
+      "source_id": "x:2114811032816476638",
+      "source_url": "https://x.com/i/status/2114811032816476638",
+      "author_handle": "atomic_chat_hq",
+      "author_url": "https://x.com/atomic_chat_hq",
+      "date": "2026-10-26",
+      "category": "comparison",
+      "type": "Evaluation",
+      "title": "Mr. Krabs game with agent teams",
+      "takeaway": "Compare game output while retaining the harness and team size.",
+      "body_notes": "The publisher reports teams of eight agents on the same prompt: Terra in six minutes for $1.06, Sonnet 5.5 in an hour for $18.10. The publisher prefers Sonnet's game. Costs, gameplay and equal test conditions were not independently verified.",
+      "media": [
+        {
+          "id": "2114810964021321728",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video-s.twimg.com/amplify_video/2114810964021321728/vid/avc1/1080x1080/q1qqfNDonBi1x1h1.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114810964021321728/img/JM3Bidrc6xGftVqH.jpg",
+          "source_expanded_url": "https://x.com/atomic_chat_hq/status/2114811032816476638/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114810964021321728-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114810964021321728.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-14",
+      "number": 14,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2114811032816476638"
+    },
+    {
+      "source_id": "x:2114891677097988327",
+      "source_url": "https://x.com/i/status/2114891677097988327",
+      "author_handle": "kickingkeys",
+      "author_url": "https://x.com/kickingkeys",
+      "date": "2026-10-27",
+      "category": "comparison",
+      "type": "Evaluation",
+      "title": "Code-painted bicycle and interior",
+      "takeaway": "Compare two painting subjects without splitting one evaluation into many cases.",
+      "body_notes": "The creator shares bicycle and interior comparisons, saying Terra is faster and cheaper but often flatter and less detailed than Sol. The two source images are retained together. The creator's cost and quality observations are specific to these samples.",
+      "media": [
+        {
+          "id": "2114882778516934656",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVmSrpMX0AAoQ_c.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVmSrpMX0AAoQ_c.jpg",
+          "source_expanded_url": "https://x.com/kickingkeys/status/2114891677097988327/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114882778516934656.jpg"
+        },
+        {
+          "id": "2114882809034678272",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVmSta4XoAAfRNo.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVmSta4XoAAfRNo.jpg",
+          "source_expanded_url": "https://x.com/kickingkeys/status/2114891677097988327/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114882809034678272.jpg"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-15",
+      "number": 15,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2114891677097988327"
+    },
+    {
+      "source_id": "x:2114863517526577498",
+      "source_url": "https://x.com/i/status/2114863517526577498",
+      "author_handle": "higgsfield_ai",
+      "author_url": "https://x.com/higgsfield_ai",
+      "date": "2026-10-26",
+      "category": "comparison",
+      "type": "Evaluation",
+      "title": "Electronics lessons across two models",
+      "takeaway": "Compare generated explanations for the same practical lesson.",
+      "body_notes": "Higgsfield compares Terra with Claude Opus 5.5 on electronics lessons from lighting an LED to watering a plant. The video shows outputs made with Higgsfield; it is not evidence that Terra natively generates video or that the circuits were physically tested.",
+      "media": [
+        {
+          "id": "2114862905011400704",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video.twimg.com/amplify_video/2114862905011400704/vid/avc1/1920x2160/9w4eqyLcXkkQ0a79.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114862905011400704/img/MT9Oe5yz4iGq8X6B.jpg",
+          "source_expanded_url": "https://x.com/higgsfield_ai/status/2114863517526577498/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114862905011400704-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114862905011400704.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-16",
+      "number": 16,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2114863517526577498"
+    },
+    {
+      "source_id": "supplemental:simon-pelican",
+      "source_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+      "author_handle": "simonw",
+      "author_url": "https://simonwillison.net/",
+      "date": "2026-10-26",
+      "category": "comparison",
+      "type": "Evaluation",
+      "title": "Pelican SVGs across reasoning levels",
+      "takeaway": "Compare the same SVG request across models and reasoning levels.",
+      "body_notes": "Simon Willison publishes a grid for four GPT models across six effort levels, with none unavailable for Astra and Sol. All 22 available source SVGs are preserved below. Token counts and estimated costs belong to these runs, not a general benchmark of visual quality.",
+      "media": [
+        {
+          "id": "simon-gpt-6-astra-max",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-astra at max reasoning effort",
+          "model": "gpt-6-astra",
+          "effort": "max",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-astra-max.png"
+        },
+        {
+          "id": "simon-gpt-6.1-sol-max",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-sol at max reasoning effort",
+          "model": "gpt-6.1-sol",
+          "effort": "max",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-sol-max.png"
+        },
+        {
+          "id": "simon-gpt-6.1-terra-max",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-terra at max reasoning effort",
+          "model": "gpt-6.1-terra",
+          "effort": "max",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-terra-max.png"
+        },
+        {
+          "id": "simon-gpt-6-luna-max",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-luna at max reasoning effort",
+          "model": "gpt-6-luna",
+          "effort": "max",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-luna-max.png"
+        },
+        {
+          "id": "simon-gpt-6-astra-xhigh",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-astra at xhigh reasoning effort",
+          "model": "gpt-6-astra",
+          "effort": "xhigh",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-astra-xhigh.png"
+        },
+        {
+          "id": "simon-gpt-6.1-sol-xhigh",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-sol at xhigh reasoning effort",
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-sol-xhigh.png"
+        },
+        {
+          "id": "simon-gpt-6.1-terra-xhigh",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-terra at xhigh reasoning effort",
+          "model": "gpt-6.1-terra",
+          "effort": "xhigh",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-terra-xhigh.png"
+        },
+        {
+          "id": "simon-gpt-6-luna-xhigh",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-luna at xhigh reasoning effort",
+          "model": "gpt-6-luna",
+          "effort": "xhigh",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-luna-xhigh.png"
+        },
+        {
+          "id": "simon-gpt-6-astra-high",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-astra at high reasoning effort",
+          "model": "gpt-6-astra",
+          "effort": "high",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-astra-high.png"
+        },
+        {
+          "id": "simon-gpt-6.1-sol-high",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-sol at high reasoning effort",
+          "model": "gpt-6.1-sol",
+          "effort": "high",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-sol-high.png"
+        },
+        {
+          "id": "simon-gpt-6.1-terra-high",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-terra at high reasoning effort",
+          "model": "gpt-6.1-terra",
+          "effort": "high",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-terra-high.png"
+        },
+        {
+          "id": "simon-gpt-6-luna-high",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-luna at high reasoning effort",
+          "model": "gpt-6-luna",
+          "effort": "high",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-luna-high.png"
+        },
+        {
+          "id": "simon-gpt-6-astra-medium",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-astra at medium reasoning effort",
+          "model": "gpt-6-astra",
+          "effort": "medium",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-astra-medium.png"
+        },
+        {
+          "id": "simon-gpt-6.1-sol-medium",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-sol at medium reasoning effort",
+          "model": "gpt-6.1-sol",
+          "effort": "medium",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-sol-medium.png"
+        },
+        {
+          "id": "simon-gpt-6.1-terra-medium",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-terra at medium reasoning effort",
+          "model": "gpt-6.1-terra",
+          "effort": "medium",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-terra-medium.png"
+        },
+        {
+          "id": "simon-gpt-6-luna-medium",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-luna at medium reasoning effort",
+          "model": "gpt-6-luna",
+          "effort": "medium",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-luna-medium.png"
+        },
+        {
+          "id": "simon-gpt-6-astra-low",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-astra at low reasoning effort",
+          "model": "gpt-6-astra",
+          "effort": "low",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-astra-low.png"
+        },
+        {
+          "id": "simon-gpt-6.1-sol-low",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-sol at low reasoning effort",
+          "model": "gpt-6.1-sol",
+          "effort": "low",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-sol-low.png"
+        },
+        {
+          "id": "simon-gpt-6.1-terra-low",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-terra at low reasoning effort",
+          "model": "gpt-6.1-terra",
+          "effort": "low",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-terra-low.png"
+        },
+        {
+          "id": "simon-gpt-6-luna-low",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-luna at low reasoning effort",
+          "model": "gpt-6-luna",
+          "effort": "low",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-luna-low.png"
+        },
+        {
+          "id": "simon-gpt-6.1-terra-none",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6.1-terra at none reasoning effort",
+          "model": "gpt-6.1-terra",
+          "effort": "none",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6.1-terra-none.png"
+        },
+        {
+          "id": "simon-gpt-6-luna-none",
+          "type": "image",
+          "source_type": "svg",
+          "source_media_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "source_preview_url": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html",
+          "alt": "Pelican riding a bicycle, generated by gpt-6-luna at none reasoning effort",
+          "model": "gpt-6-luna",
+          "effort": "none",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/simon-gpt-6-luna-none.png"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_id": "hn:50248713",
+          "source_url": "https://news.ycombinator.com/item?id=50248713"
+        }
+      ],
+      "prompt_status": "public",
+      "prompt_boundary": "Exact public task prompt is copied without reconstruction.",
+      "prompt": "Generate an SVG of a pelican riding a bicycle",
+      "id": "case-17",
+      "number": 17,
+      "kind": "comparison",
+      "dedup_key": "https://static.simonwillison.net/static/2026/openai-pelicans-october-2026.html"
+    },
+    {
+      "source_id": "x:2114890859577749730",
+      "source_url": "https://x.com/i/status/2114890859577749730",
+      "author_handle": "mercor",
+      "author_url": "https://x.com/mercor",
+      "date": "2026-10-27",
+      "category": "benchmarks",
+      "type": "Benchmark",
+      "title": "APEX-Agents professional tasks",
+      "takeaway": "Separate partial rubric completion from passing an entire professional task.",
+      "body_notes": "Mercor reports 68.3% Pass@1 and a 79.3% mean score. Consulting reaches 80.9%, banking 66.2% and law 57.7%; law's average rubric completion is 80.6%. These different metrics should not be conflated. The publisher's benchmark and its scoring conditions were not reproduced here.",
+      "media": [
+        {
+          "id": "2114890363941113856",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVmZlLGbUAAq6pG.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVmZlLGbUAAq6pG.jpg",
+          "source_expanded_url": "https://x.com/mercor/status/2114890859577749730/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114890363941113856.jpg"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-18",
+      "number": 18,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2114890859577749730"
+    },
+    {
+      "source_id": "x:2114901176575725623",
+      "source_url": "https://x.com/i/status/2114901176575725623",
+      "author_handle": "browser_use",
+      "author_url": "https://x.com/browser_use",
+      "date": "2026-10-27",
+      "category": "benchmarks",
+      "type": "Benchmark",
+      "title": "Browser Use Benchmark",
+      "takeaway": "Compare task scores and costs within one browser benchmark.",
+      "body_notes": "Browser Use reports 78.5 for Terra versus 79.7 for Sol at 35% lower cost. This is the benchmark publisher's result, not an EvoLink measurement or a promise for every website.",
+      "media": [
+        {
+          "id": "2114900337639485440",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVmipuBa8AA8ZlM.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVmipuBa8AA8ZlM.jpg",
+          "source_expanded_url": "https://x.com/browser_use/status/2114901176575725623/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114900337639485440.jpg"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-19",
+      "number": 19,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2114901176575725623"
+    },
+    {
+      "source_id": "x:2114922143930847258",
+      "source_url": "https://x.com/i/status/2114922143930847258",
+      "author_handle": "MangQiuyang",
+      "author_url": "https://x.com/MangQiuyang",
+      "date": "2026-10-27",
+      "category": "benchmarks",
+      "type": "Benchmark",
+      "title": "FrontierCS 2 research budget comparison",
+      "takeaway": "Evaluate a faster model under the same wall-clock research budget.",
+      "body_notes": "The evaluator reports 40% for Terra versus 35% for Sol with the same five-hour budget and 3.3x more tokens spent by Terra. The post describes half the price; task-level billing and repeatability were not independently checked.",
+      "media": [
+        {
+          "id": "2114922136334950400",
+          "type": "video",
+          "source_type": "video",
+          "source_media_url": "https://video.twimg.com/amplify_video/2114922136334950400/vid/avc1/1280x720/KdqZU92ON7fpzKBY.mp4?tag=29",
+          "source_preview_url": "https://pbs.twimg.com/amplify_video_thumb/2114922136334950400/img/t4TDC7jOQ0PCBdOt.jpg",
+          "source_expanded_url": "https://x.com/MangQiuyang/status/2114922143930847258/video/1",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114922136334950400-poster.jpg",
+          "playable_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114922136334950400.mp4"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-20",
+      "number": 20,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2114922143930847258"
+    },
+    {
+      "source_id": "x:2114958460832100440",
+      "source_url": "https://x.com/i/status/2114958460832100440",
+      "author_handle": "rohit3a",
+      "author_url": "https://x.com/rohit3a",
+      "date": "2026-10-27",
+      "category": "benchmarks",
+      "type": "Evaluation",
+      "title": "Cube Arena reasoning effort sweep",
+      "takeaway": "Test reasoning effort as an experimental variable.",
+      "body_notes": "The evaluator reports a score of 30.5 at xhigh and 60.5 at max, with three runs to check the difference. The chart is a publisher-reported observation on this task suite; it does not show that max is best for all workloads.",
+      "media": [
+        {
+          "id": "2114958345706844160",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVnXaO6asAAenYe.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVnXaO6asAAenYe.jpg",
+          "source_expanded_url": "https://x.com/rohit3a/status/2114958460832100440/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114958345706844160.jpg"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-21",
+      "number": 21,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2114958460832100440"
+    },
+    {
+      "source_id": "x:2114996198650393076",
+      "source_url": "https://x.com/i/status/2114996198650393076",
+      "author_handle": "gosrum",
+      "author_url": "https://x.com/gosrum",
+      "date": "2026-10-27",
+      "category": "benchmarks",
+      "type": "Benchmark",
+      "title": "Terminal-Bench 4.0 with Codex",
+      "takeaway": "Compare accuracy, cost and completion time within the same harness.",
+      "body_notes": "The evaluator publishes charts for Terra xhigh with Codex and reports faster task completion than previously tested models. They also tried max but found its longer reasoning and token usage unattractive. The preference and tradeoff are the evaluator's observations.",
+      "media": [
+        {
+          "id": "2114992522384805889",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVn2fk9akAEKOsT.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVn2fk9akAEKOsT.jpg",
+          "source_expanded_url": "https://x.com/gosrum/status/2114996198650393076/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114992522384805889.jpg"
+        },
+        {
+          "id": "2114992981665255424",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVn26T6aEAAkMoW.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVn26T6aEAAkMoW.jpg",
+          "source_expanded_url": "https://x.com/gosrum/status/2114996198650393076/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114992981665255424.jpg"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-22",
+      "number": 22,
+      "kind": "comparison",
+      "dedup_key": "https://x.com/i/status/2114996198650393076"
+    },
+    {
+      "source_id": "supplemental:plotly-data-analytics",
+      "source_url": "https://plotly.com/blog/gpt-6-1-terra-plotly-data-analytics-bench/",
+      "author_handle": "Plotly",
+      "author_url": "https://plotly.com/",
+      "date": "2026-10-26",
+      "category": "benchmarks",
+      "type": "Benchmark",
+      "title": "Data analytics exam on synthetic wind-farm data",
+      "takeaway": "Compare routine analytics with hidden-pattern failures.",
+      "body_notes": "Plotly reports 40/43 questions passed for $1.31 and a median fifteen seconds per question, using default reasoning through OpenRouter. Two hidden patterns and one capacity-factor question were missed. The exam uses a synthetic wind-energy warehouse and private questions; these are publisher-reported results, not an independent reproduction.",
+      "media": [
+        {
+          "id": "plotly-data-analytics-1",
+          "type": "image",
+          "source_type": "image",
+          "source_media_url": "https://plotly.com/cms/img/6CD9fIyHFr2ojAqk_gpt-6-1-terra-data-analytics-benchmark-v2.png?auto=compress&fm=webp",
+          "source_preview_url": "https://plotly.com/cms/img/6CD9fIyHFr2ojAqk_gpt-6-1-terra-data-analytics-benchmark-v2.png?auto=compress&fm=webp",
+          "alt": "Data analytics accuracy versus cost",
+          "model": null,
+          "effort": null,
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/plotly-data-analytics-1.jpg"
+        },
+        {
+          "id": "plotly-data-analytics-2",
+          "type": "image",
+          "source_type": "image",
+          "source_media_url": "https://plotly.com/cms/img/ayf4lKPwY7ZVinWQ_data-analytics-benchmark-accuracy-vs-speed-gpt-6-1-terra-v2.png?auto=compress&fm=webp",
+          "source_preview_url": "https://plotly.com/cms/img/ayf4lKPwY7ZVinWQ_data-analytics-benchmark-accuracy-vs-speed-gpt-6-1-terra-v2.png?auto=compress&fm=webp",
+          "alt": "Data analytics accuracy versus median time",
+          "model": null,
+          "effort": null,
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/plotly-data-analytics-2.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_id": "hn:50254817",
+          "source_url": "https://news.ycombinator.com/item?id=50254817"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No prompt reconstructed.",
+      "id": "case-23",
+      "number": 23,
+      "kind": "comparison",
+      "dedup_key": "https://plotly.com/blog/gpt-6-1-terra-plotly-data-analytics-bench/"
+    },
+    {
+      "source_id": "x:2114953159726837874",
+      "source_url": "https://x.com/i/status/2114953159726837874",
+      "author_handle": "goan999999",
+      "author_url": "https://x.com/goan999999",
+      "date": "2026-10-27",
+      "category": "workflows",
+      "type": "Tutorial",
+      "title": "Terra-to-Sol escalation rules",
+      "takeaway": "Escalate difficult work and return routine work to a smaller model.",
+      "body_notes": "The author proposes Terra for routine changes, Sol for architecture, cross-module bugs or two unsuccessful Terra repairs, then a return to Terra for tests and delivery. The claimed 80% token reduction is a target, not a measured result.",
+      "media": [
+        {
+          "id": "2114953075203145728",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVnSncwagAAo5B4.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVnSncwagAAo5B4.jpg",
+          "source_expanded_url": "https://x.com/goan999999/status/2114953159726837874/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114953075203145728.jpg"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-24",
+      "number": 24,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2114953159726837874"
+    },
+    {
+      "source_id": "x:2114850737645879629",
+      "source_url": "https://x.com/i/status/2114850737645879629",
+      "author_handle": "openclaw",
+      "author_url": "https://x.com/openclaw",
+      "date": "2026-10-26",
+      "category": "integrations",
+      "type": "Integration",
+      "title": "OpenClaw model selection",
+      "takeaway": "Follow a tool publisher's documented model-selection path.",
+      "body_notes": "OpenClaw says to use ChatGPT sign-in or an OpenAI key, then select Terra. This records the publisher's concrete setup instructions; this collection has not tested the integration.",
+      "media": [
+        {
+          "id": "2114850664279150592",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVl1eWVbkAAWh9x.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVl1eWVbkAAWh9x.jpg",
+          "source_expanded_url": "https://x.com/openclaw/status/2114850737645879629/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114850664279150592.jpg"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-25",
+      "number": 25,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2114850737645879629"
+    },
+    {
+      "source_id": "x:2114920088357032109",
+      "source_url": "https://x.com/i/status/2114920088357032109",
+      "author_handle": "Teknium",
+      "author_url": "https://x.com/Teknium",
+      "date": "2026-10-27",
+      "category": "integrations",
+      "type": "Integration",
+      "title": "Terra selection in Hermes Agent",
+      "takeaway": "Check the provider catalog before reproducing an agent integration.",
+      "body_notes": "The publisher announces Terra through Nous Portal and OpenRouter. The public Hermes model catalog contains Terra selectors for both providers. This confirms catalog entries, not successful authentication, tool use or an end-to-end run.",
+      "media": [
+        {
+          "id": "2114920028520992768",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVm0j4RaUAA9O9Q.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVm0j4RaUAA9O9Q.jpg",
+          "source_expanded_url": "https://x.com/Teknium/status/2114920088357032109/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114920028520992768.jpg"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-26",
+      "number": 26,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2114920088357032109",
+      "supporting_url": "https://github.com/NousResearch/hermes-agent/blob/main/website/static/api/model-catalog.json"
+    },
+    {
+      "source_id": "x:2114842331287560301",
+      "source_url": "https://x.com/i/status/2114842331287560301",
+      "author_handle": "xiangning0",
+      "author_url": "https://x.com/xiangning0",
+      "date": "2026-10-26",
+      "category": "limits",
+      "type": "Limit",
+      "title": "Mario prototype with a blocked site",
+      "takeaway": "Include failed delivery and rework when evaluating a faster model.",
+      "body_notes": "The creator reports a Mario-style task taking 20m25s with Terra versus 19m06s with Sol, with both showing 2% plan usage. The source screenshots show an inaccessible site and an unwanted deployment step. These observations do not establish a general failure rate or task cost.",
+      "media": [
+        {
+          "id": "2114837577866084352",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVlpknpbAAArde1.jpg",
+          "source_preview_url": "https://pbs.twimg.com/media/HVlpknpbAAArde1.jpg",
+          "source_expanded_url": "https://x.com/xiangning0/status/2114842331287560301/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114837577866084352.jpg"
+        },
+        {
+          "id": "2114840870734417920",
+          "type": "image",
+          "source_type": "photo",
+          "source_media_url": "https://pbs.twimg.com/media/HVlskSiaUAAOv49.png",
+          "source_preview_url": "https://pbs.twimg.com/media/HVlskSiaUAAOv49.png",
+          "source_expanded_url": "https://x.com/xiangning0/status/2114842331287560301/photo/1",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/media/2114840870734417920.jpg"
+        }
+      ],
+      "prompt_status": "not-required",
+      "prompt_boundary": "No complete prompt claimed. Only source-described task and observed output are summarized.",
+      "related_sources": [],
+      "id": "case-27",
+      "number": 27,
+      "kind": "usecase",
+      "dedup_key": "https://x.com/i/status/2114842331287560301"
+    }
+  ],
+  "banner_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/banner-owner.png",
+  "banner_policy": "shared-r2"
+}

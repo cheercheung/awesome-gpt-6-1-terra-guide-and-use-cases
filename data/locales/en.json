@@ -1,0 +1,177 @@
+{
+  "language": "en",
+  "copy": {
+    "collection": "Use Cases",
+    "introduction": "Introduction",
+    "overview": "Overview",
+    "quick_start": "Quick Start",
+    "menu": "Menu",
+    "case": "Case",
+    "category": "Category",
+    "type": "Type",
+    "date": "Date",
+    "by": "by",
+    "video": "Watch the video",
+    "image": "Open the image",
+    "related": "Related Repositories",
+    "acknowledge": "Acknowledge",
+    "prompt": "Public prompt",
+    "supporting": "Open the supporting artifact",
+    "model_page": "Open GPT-6.1 Terra model page in your browser",
+    "categories": {
+      "computer": "Computer Use",
+      "editing": "Editing",
+      "visual": "Visuals and Games",
+      "comparison": "Model Comparison",
+      "benchmarks": "Benchmarks",
+      "workflows": "Workflows",
+      "integrations": "Integrations",
+      "limits": "Limits and Failed Delivery"
+    },
+    "intro": "Public demonstrations, workflows and evaluations attributed by their publishers to GPT-6.1 Terra.",
+    "purpose": "Inspect real tasks, visible outputs and practical limits through their original sources.",
+    "stats": "27 independent use cases across 8 categories, with 52 source visuals. Reposts are grouped with the original work. A complete prompt is optional.",
+    "evidence": "Model identity, timings, costs, scores and quality judgments follow the linked sources. This collection has not reproduced the tasks or billing. Videos may be accelerated; per-case notes preserve disclosed speed changes. A demonstration does not prove repeatable success.",
+    "steps": "1. Choose a task in the Menu.\n2. Open the media and follow the source-linked title.\n3. Check the setup, result and limitations before adapting the workflow.",
+    "thanks": "Thanks to the creators and evaluators whose work makes this collection possible:",
+    "corrections": "Open an issue for missing credit, duplicate work, inaccurate claims or removal requests. Third-party media and code retain their original ownership; this repository does not relicense them.",
+    "model_page_browser": "Open GPT-6.1 Terra model page in your browser"
+  },
+  "cases": [
+    [
+      "Roadster from Blender to video",
+      "Trace a workflow from a car reference through Blender to video.",
+      "The creator describes Codex with a fal plugin, roadster-image generation, Blender modeling and camera animation, then GPT 2.5 and Seedance 2.5 for photoreal conversion. Terra is one component of this workflow. The claimed 3% plan usage is not a per-task bill."
+    ],
+    [
+      "Reference car drawn in Paint",
+      "Inspect drawing from a reference image through desktop controls.",
+      "The creator asks Terra to redraw a car reference in Paint and reports 6m22s and $0.29. The recording shows the application and reference; the reported cost and fidelity were not independently measured."
+    ],
+    [
+      "Sam Altman portrait in Paint",
+      "Inspect a drawing task performed through a desktop interface.",
+      "The original creator identifies the portrait as Sam Altman and says the recording is not sped up. Reposts belong to this same work; the speed statement is the creator's claim."
+    ],
+    [
+      "Thibault Sottiaux portrait in Paint",
+      "Check playback speed before judging a computer-use demonstration.",
+      "The original creator says Terra drew @thsottiaux in Microsoft Paint and explicitly labels the video as about 7.9x sped up. A repost of this work is grouped here."
+    ],
+    [
+      "Transcript-guided video editing",
+      "Use transcript edits to control a rough video cut.",
+      "The creator reports a good initial rough cut, then describes a skill for removing filler words, cutting sentences and preserving chosen passages from the transcript in chat. The post says the skill is shared below; installation and final playback were not tested here."
+    ],
+    [
+      "Editing first-impressions walkthrough",
+      "Inspect a creator's editing demonstration before adopting its conclusions.",
+      "The creator shares a video about early editing results with Terra. The clip is a first-impressions demonstration, not a controlled comparison or evidence that every editing task succeeds."
+    ],
+    [
+      "Blender wrestler skit",
+      "Inspect character creation and scene assembly in a Blender workflow.",
+      "The creator attributes a short wrestler skit and the Blender character models to Terra. The recording shows the resulting workflow; it does not establish production-ready modeling or animation quality."
+    ],
+    [
+      "Minecraft-style game prototype",
+      "Inspect a game prototype and its claimed feature coverage.",
+      "The creator reports building a working Minecraft-style game in about ten minutes, including Nether and End areas. Playability and the complete feature set were not independently tested."
+    ],
+    [
+      "Bioluminescent nautilus in HTML",
+      "Inspect an interactive visual built as a single HTML file.",
+      "The recording shows a bioluminescent nautilus scene with controls. The creator reports making it in thirty seconds in a single HTML file; runtime behavior and generation time were not reproduced."
+    ],
+    [
+      "Single-page Pac-Man benchmark",
+      "Open a generated game and inspect its recorded run data.",
+      "PacBench records a Codex high-effort Terra run scoring 84, taking 5m25s, with an estimated cost of about $0.19. The game HTML is public. Cost is calculated from recorded usage and published rates, rather than a verified bill; this collection has not scored gameplay independently."
+    ],
+    [
+      "Amazon river steamer across models",
+      "Compare atmosphere and interaction in a shared scene request.",
+      "The creator compares a derelict 1920s river steamer in a flooded Amazon jungle at dusk, reporting 38 minutes for Terra and 55 for Opus 5.5. The author prefers Opus's atmosphere and interaction. These are informal results from one request."
+    ],
+    [
+      "Three.js galloping zebra comparison",
+      "Compare motion and anatomy across three labeled outputs.",
+      "The recording places Terra, Claude Sonnet 5.5 and Claude Haiku 5.5 zebra scenes together. The creator's preference for Claude is an opinion about these examples, not a general capability ranking."
+    ],
+    [
+      "Blender gun-model comparison",
+      "Compare visible modeling detail alongside reported generation time.",
+      "The side-by-side recording labels Sol 6.1 Extra High and Terra 6.1 Extra High. The creator reports 23 minutes and 1% plan usage for the left output versus six minutes and 0% for the right, and prefers the slower result's quality. Percentage displays are not task-level cost measurements."
+    ],
+    [
+      "Mr. Krabs game with agent teams",
+      "Compare game output while retaining the harness and team size.",
+      "The publisher reports teams of eight agents on the same prompt: Terra in six minutes for $1.06, Sonnet 5.5 in an hour for $18.10. The publisher prefers Sonnet's game. Costs, gameplay and equal test conditions were not independently verified."
+    ],
+    [
+      "Code-painted bicycle and interior",
+      "Compare two painting subjects without splitting one evaluation into many cases.",
+      "The creator shares bicycle and interior comparisons, saying Terra is faster and cheaper but often flatter and less detailed than Sol. The two source images are retained together. The creator's cost and quality observations are specific to these samples."
+    ],
+    [
+      "Electronics lessons across two models",
+      "Compare generated explanations for the same practical lesson.",
+      "Higgsfield compares Terra with Claude Opus 5.5 on electronics lessons from lighting an LED to watering a plant. The video shows outputs made with Higgsfield; it is not evidence that Terra natively generates video or that the circuits were physically tested."
+    ],
+    [
+      "Pelican SVGs across reasoning levels",
+      "Compare the same SVG request across models and reasoning levels.",
+      "Simon Willison publishes a grid for four GPT models across six effort levels, with none unavailable for Astra and Sol. All 22 available source SVGs are preserved below. Token counts and estimated costs belong to these runs, not a general benchmark of visual quality."
+    ],
+    [
+      "APEX-Agents professional tasks",
+      "Separate partial rubric completion from passing an entire professional task.",
+      "Mercor reports 68.3% Pass@1 and a 79.3% mean score. Consulting reaches 80.9%, banking 66.2% and law 57.7%; law's average rubric completion is 80.6%. These different metrics should not be conflated. The publisher's benchmark and its scoring conditions were not reproduced here."
+    ],
+    [
+      "Browser Use Benchmark",
+      "Compare task scores and costs within one browser benchmark.",
+      "Browser Use reports 78.5 for Terra versus 79.7 for Sol at 35% lower cost. This is the benchmark publisher's result, not an EvoLink measurement or a promise for every website."
+    ],
+    [
+      "FrontierCS 2 research budget comparison",
+      "Evaluate a faster model under the same wall-clock research budget.",
+      "The evaluator reports 40% for Terra versus 35% for Sol with the same five-hour budget and 3.3x more tokens spent by Terra. The post describes half the price; task-level billing and repeatability were not independently checked."
+    ],
+    [
+      "Cube Arena reasoning effort sweep",
+      "Test reasoning effort as an experimental variable.",
+      "The evaluator reports a score of 30.5 at xhigh and 60.5 at max, with three runs to check the difference. The chart is a publisher-reported observation on this task suite; it does not show that max is best for all workloads."
+    ],
+    [
+      "Terminal-Bench 4.0 with Codex",
+      "Compare accuracy, cost and completion time within the same harness.",
+      "The evaluator publishes charts for Terra xhigh with Codex and reports faster task completion than previously tested models. They also tried max but found its longer reasoning and token usage unattractive. The preference and tradeoff are the evaluator's observations."
+    ],
+    [
+      "Data analytics exam on synthetic wind-farm data",
+      "Compare routine analytics with hidden-pattern failures.",
+      "Plotly reports 40/43 questions passed for $1.31 and a median fifteen seconds per question, using default reasoning through OpenRouter. Two hidden patterns and one capacity-factor question were missed. The exam uses a synthetic wind-energy warehouse and private questions; these are publisher-reported results, not an independent reproduction."
+    ],
+    [
+      "Terra-to-Sol escalation rules",
+      "Escalate difficult work and return routine work to a smaller model.",
+      "The author proposes Terra for routine changes, Sol for architecture, cross-module bugs or two unsuccessful Terra repairs, then a return to Terra for tests and delivery. The claimed 80% token reduction is a target, not a measured result."
+    ],
+    [
+      "OpenClaw model selection",
+      "Follow a tool publisher's documented model-selection path.",
+      "OpenClaw says to use ChatGPT sign-in or an OpenAI key, then select Terra. This records the publisher's concrete setup instructions; this collection has not tested the integration."
+    ],
+    [
+      "Terra selection in Hermes Agent",
+      "Check the provider catalog before reproducing an agent integration.",
+      "The publisher announces Terra through Nous Portal and OpenRouter. The public Hermes model catalog contains Terra selectors for both providers. This confirms catalog entries, not successful authentication, tool use or an end-to-end run."
+    ],
+    [
+      "Mario prototype with a blocked site",
+      "Include failed delivery and rework when evaluating a faster model.",
+      "The creator reports a Mario-style task taking 20m25s with Terra versus 19m06s with Sol, with both showing 2% plan usage. The source screenshots show an inaccessible site and an unwanted deployment step. These observations do not establish a general failure rate or task cost."
+    ]
+  ]
+}
