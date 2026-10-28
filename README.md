@@ -213,7 +213,7 @@ Type: Demo | Date: 2026-10-27
 
 PacBench records a Codex high-effort Terra run scoring 84, taking 5m25s, with an estimated cost of about $0.19. The game HTML is public. Cost is calculated from recorded usage and published rates, rather than a verified bill; this collection has not scored gameplay independently.
 
-**Public prompt:**
+**Prompt:**
 
 ```
 Create a Pac-Man game in a single html page
@@ -315,7 +315,7 @@ Type: Evaluation | Date: 2026-10-26
 
 Simon Willison publishes a grid for four GPT models across six effort levels, with none unavailable for Astra and Sol. All 22 available source SVGs are preserved below. Token counts and estimated costs belong to these runs, not a general benchmark of visual quality.
 
-**Public prompt:**
+**Prompt:**
 
 ```
 Generate an SVG of a pelican riding a bicycle
