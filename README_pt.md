@@ -2,7 +2,7 @@
 
 <h1>GPT-6.1 Terra · Casos de uso</h1>
 
-<a href="https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=gpt-6-1-terra-usecases&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/banner-owner.png" alt="GPT-6.1 Terra — Casos de uso" width="760"></a>
+<a href="https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=gpt-6-1-terra-usecases&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-6-1-terra-guide-and-use-cases/assets/banner-owner-e5aedbe7665b.png" alt="GPT-6.1 Terra — Casos de uso" width="760"></a>
 
 [Abrir GPT-6.1 Terra no navegador](https://evolink.ai/gpt-6-1-terra?utm_source=github&utm_medium=badge&utm_campaign=gpt-6-1-terra-usecases&utm_content=model_try)
 
